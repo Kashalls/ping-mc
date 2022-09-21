@@ -1054,6 +1054,7 @@ dependencies = [
  "rocket",
  "rust-raknet",
  "serde",
+ "thiserror",
  "tokio",
  "tokio-util",
  "trust-dns-resolver",
